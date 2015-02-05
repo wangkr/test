@@ -4,6 +4,7 @@
 #include "stdafx.h"
 #include "Handgesture.h"
 
+
 #define MAX_LOADSTRING 100
 
 // 全局变量:
